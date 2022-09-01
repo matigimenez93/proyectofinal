@@ -1,0 +1,13 @@
+%disposicion{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.texto{
+    color: rgb(246, 255, 255);
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    @extend %disposicion
+    
+}

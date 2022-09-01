@@ -1,0 +1,23 @@
+main{
+
+    nav{
+        ul{
+            li{
+                a{
+                    color: azure;
+                    font-size: nth($size, 4);
+                }
+            }
+        }
+        
+    } 
+  
+      
+}
+
+
+
+footer {
+    background-color: map-get($footer,display);
+}
+ 

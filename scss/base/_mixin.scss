@@ -1,0 +1,7 @@
+@mixin futer ($color-secundario){
+   background-color: black;
+}
+
+footer{
+    @include futer(black)
+}
