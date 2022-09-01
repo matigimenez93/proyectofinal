@@ -1,0 +1,8 @@
+cambie los titulos de mis 3 html <meta name="description"  content="en este sitio vas a encontra todo sobre el grupo de musica electronica depeche mode, su historia, imagenes de la banda y recitales, discografia, giras y mas" >
+
+agregue los keywords:  <meta property="keywords" content="rock, electronica, synthpop, postpunk,dave gahan, martin gore, andrew fletcher, alan wilder, vince clarke, sintetizador, depeche mode, 
+    violator, personal jesus, enjoy the silence">
+
+modifique las etiquetas alt de todas las imagenes
+
+puse descripciones en todos mis html	
